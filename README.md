@@ -13,4 +13,5 @@ Parents, écoles, universités, entreprises.
 - Diminuer la fraude
 - Pouvoir surveiller son enfant en temps réel 
 - Pouvoir contrôler son équipe en entreprise.
-"En tant que (Public) j'utilise la solution ... elle me permet de .... et donc de gagner (la valeur)."
+
+- "En tant que (Public) j'utilise la solution ... elle me permet de .... et donc de gagner (la valeur)."
