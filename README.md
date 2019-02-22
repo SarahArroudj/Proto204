@@ -1,11 +1,15 @@
 # Proto204
 Surveillance de salles avec Raspberry Pi
 
-Problème:
+- Problème:
 Copiage, malaise de bébé, salariés malhonnêtes, cambriolages
-Public:
+
+
+- Public:
 Parents, écoles, universités, entreprises.
-Valeur:
+
+
+- Valeur:
 - Diminuer la fraude
 - Pouvoir surveiller son enfant en temps réel 
 - Pouvoir contrôler son équipe en entreprise.
