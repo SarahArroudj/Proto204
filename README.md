@@ -7,6 +7,6 @@ Sujet : Détection de carte étudiant avec Raspberry Pi 0 pour différents usage
 
 - "En tant que professeur, j'utilise la solution "EasyStudentScan" elle me permet de gérer les présences des etudiants lors des cours,  elle me facilite la vérification des identités lors des examens ainsi que l'affectation des notes aux étudiants par un simple geste  et donc de gagner énormément de  temps."
 
-- "En tant que personnel administratif j'utilise la solution "EasyStudentScan" elle me permet la facilité de gestion des salles et des laocaux universitaires et d'assurer la sécurité de ces dernières et donc de gagner du confort et de la fiabilité."
+- "En tant que personnel administratif j'utilise la solution "EasyStudentScan" elle me permet la facilité de gestion des salles et des locaux universitaires et d'assurer la sécurité de ces dernières et donc de gagner du confort et de la fiabilité."
 
 - "En tant que personnel de la retauration, la solution "EasyStudentScan" me permet de faciliter la vérification des cartes étudiant lors du passage au restaurant  et donc de gagner du temps et de la tranquilité et d'éviter les grandes files d'attentes."
