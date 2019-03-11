@@ -19,7 +19,7 @@ Les valeurs de "EasyStudentScan" :
  -  * Affectation automatique des notes 
  -  * Accés aux locaux de l'université
     
-- Fonctionnalités:
+Fonctionnalités:
 - Prendre une photo avec la caméra 
 - Détecter s'il y a une carte à proximité ( Grâce au Logo de Paris Saclay)
 - Extraire le numéro d'inscription 
