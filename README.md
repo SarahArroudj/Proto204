@@ -14,8 +14,14 @@ Problèmes :
 
 - "En tant que personnel de la retauration, la solution "EasyStudentScan" me permet de faciliter la vérification des cartes étudiant lors du passage au restaurant  et donc de gagner du temps et de la tranquilité et d'éviter les grandes files d'attentes."
 
-Les valeurs de "EasyStudentScan" 
-    * Identification et vérification des étudiants lors des examens.
-    * Affectation automatique des notes 
-    * Accés aux locaux de l'université
+Les valeurs de "EasyStudentScan" :
+ -   * Identification et vérification des étudiants lors des examens.
+ -  * Affectation automatique des notes 
+ -  * Accés aux locaux de l'université
     
+- Fonctionnalités:
+- Prendre une photo avec la caméra 
+- Détecter s'il y a une carte à proximité ( Grâce au Logo de Paris Saclay)
+- Extraire le numéro d'inscription 
+- Voyant lumineux pour dire que la carte est détectée 
+- Ecrire dans une base de données ( SQL dans le raspberry )
