@@ -1,4 +1,4 @@
-  **Tache 1 : installation et configuration de la caméra sur Raspberry Pi 0 
+  ** Tâche 1: installation et configuration de la caméra sur Raspberry Pi 0 **
   
  Configuration pour détécter le module Caméra branché 
  sudo apt-get update
@@ -7,3 +7,10 @@
  Puis avec les fléches du clavier, on sélectionne l’option “Enable camera”, puis “OK”
  Pour faire le test , on essaye de faire une capture " imagetest.jpg"
  raspistill -v -o imagetest.jpg
+
+  
+ ** Tâche 2: implémentation de l'algorithme de détection de texte **
+ 
+ utilisation de OpenCV v4.0
+ le modèle "the frozen east text detection" pour l'entrainement
+ un réseau de neurone pour l'apprentissage (dnn)
