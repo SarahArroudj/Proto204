@@ -1,0 +1,9 @@
+  **Tache 1 : installation et configuration de la caméra sur Raspberry Pi 0 
+  
+ Configuration pour détécter le module Caméra branché 
+ sudo apt-get update
+ sudo apt-get upgrade
+ sudo raspi-config
+ Puis avec les fléches du clavier, on sélectionne l’option “Enable camera”, puis “OK”
+ Pour faire le test , on essaye de faire une capture " imagetest.jpg"
+ raspistill -v -o imagetest.jpg
