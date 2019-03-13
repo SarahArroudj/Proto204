@@ -3,3 +3,18 @@
 * Extraire le numéro d'inscription
 * Voyant lumineux pour dire que la carte est détectée
 * Ecrire dans une base de données ( SQL dans le raspberry )
+
+Squelette de la fontion Main :
+* Fonction Extration Texte 
+* Fonction Lecture et ecriture Base de Données 
+* Fonction Bouton/Diode/son
+
+Scénario de test : 
+* Etudiant qui présente sa carte étudiant
+* Carte étudiant détécté par la caméra de la raspberry
+* Extraction des coordonnées de la carte 
+* Analyse et traitement de la carte
+* Vérification du numéro d'étudiant dans la base de donnée crée 
+* Voyant vert qui clignotte pour indiquer la validité et la présence de l'étudiant 
+* Ajouter une temporisation , quand un étudiant passé essaye de repasser une prochaine fois un voyant rouge s'allume et un signal sonore indique l'interdiction de l'opération .
+
