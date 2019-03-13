@@ -14,3 +14,11 @@
  utilisation de OpenCV v4.0
  le modèle "the frozen east text detection" pour l'entrainement
  un réseau de neurone pour l'apprentissage (dnn)
+ 
+ ** Tache 3: Creation de la base de donnees et Verification de l'existence de l'INE dans la BD
+ utilisation de MySql workbench pour la creation de la data base contenant les coordonnees des etudiants figurant sur la liste 
+ l'acces a la data base depuis la Raspberry et affichage de la table des etudiants
+ programme en python qui assure les fonctionnalites de creation et verification.    
+ 
+ **Tache 4: 
+ programme en python qui contient le main principale 
