@@ -1,1 +1,5 @@
-
+* Prendre une photo avec la caméra
+* Détecter s'il y a une carte à proximité ( Grâce au Logo de Paris Saclay)
+* Extraire le numéro d'inscription
+* Voyant lumineux pour dire que la carte est détectée
+* Ecrire dans une base de données ( SQL dans le raspberry )
