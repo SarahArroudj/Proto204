@@ -1,0 +1,15 @@
+- Fonction detect n'est pas encore faite
+- Base de données et serveur sont faits 
+- Son ça marche mais il faut les sons pour chaque etat
+- IHM marche et affichage marche 
+- Diodes pas encore faites il faut faire une soudure (en cours)
+- Boutons presque faits 
+- Manque: Integration logicielle en cours, Integration mécanique pas encore faite ( leds et boutons à intégrer)
+
+
+
+Pour demain : 
+	* Scénario de la démo à écrire, impression des numeros ine et coller sur les cartes etudiant
+	* faire une répétition pour la mise en scène et prendre les différents cas de figure
+	* Logo de l'application
+	* Interface graphique
