@@ -1,1 +1,57 @@
+La carte étudiant est un outil efficace au sein du campus universitaire , différents usages ont été proposé en ce propos: 
+
+La gestion des temps et des plannings dans l'enseignement supérieur
+Les établissements d'enseignement supérieur ont à gérer un grand nombre d'applications utilisant le badge comme identifiant, d'où un coût souvent très élevé de gestion des cartes et d'intégration. Ils doivent par ailleurs assurer une sécurité parfaite des personnels et des étudiants dans les locaux d'enseignement et sur les lieux de vie. Enfin, la gestion des temps de travail des agents peut souvent être améliorée par des outils dédiés. Découvrez les solutions d'Horoquartz pour l'enseignement supérieur. 
+
+Les problématiques du secteur
+Disposer d'une carte unique pour les étudiants et le personnel, utilisable par toutes les applications utilisant cet identifiant.
+Synchroniser facilement les systèmes d'information qui nécessitent une identification afin d'éviter des saisies multiples et de garantir l'intégrité des données.
+Promouvoir la carte étudiant en tant que porte-monnaie électronique afin de dématérialiser les paiements.
+Améliorer la sécurité en contrôlant mieux les accès aux locaux, laboratoires, résidences universitaires, parkings...
+Mieux gérer les temps de travail et les absences du personnel de l'établissement.
+Les solutions Horoquartz pour l'enseignement supérieur
+La suite Easy'ID permet de fédérer autour d'une carte unique multiservices l'ensemble des applications nécessitant une identification.
+
+Contrôle d'accès aux locaux.
+Emargement aux examens, contrôles d'assiduité, participation à des activités sportives, bibliothèque universitaire.
+Impression d'attestations et de documents administratifs.
+Gestion des photocopies.
+Paiement électronique.
+Easy'ID assure la personnalisation et la gestion des cartes, mais également la synchronisation automatique de toutes les applications utilisant ces identifiants. Finies les saisies multiples et les erreurs potentielles.
+
+Pour améliorer la sécurité des sites d'enseignement supérieur, Protecsys 2 Suite gère le contrôle des accès en fonction des habilitations. Il fournit des fonctionnalités de vidéosurveillance, de détection intrusion, de contrôle des véhicules.
+
+Enfin, eTemptation assure la gestion des temps de présence et le suivi d'absence des personnels, garantissant le respect des réglementations et des contrats de travail.
+
+Expertise et bonnes pratiques
+Pour Horoquartz, innover doit être synonyme de simplicité. L'usage prime devant les technologies. C'est pourquoi l'entreprise prête une grande attention à l'expérience vécue par l'utilisateur :
+
+Souple, Easy'ID offre une grande liberté aux étudiants et répond à leurs besoins et à leurs budgets. 
+Simples, modernes, les services proposés permettent de se familiariser avec les technologies numériques et les services dématérialisés.
+Pratique, cette carte unique pour tout faire sera utile, durant toute la vie étudiante, sur le campus, comme chez les commerçants (paiement Moneo).
+Libre, chaque étudiant le sera afin de gérer au plus juste son budget et son temps avec un accès facilité aux bâtiments, aux ressources informatiques et à son dossier administratif.
+Sûre, la carte s'ouvre progressivement aux services territoriaux : transport urbain, manifestations culturelles et sportives. 
+
+La deuxième solution : 
+
+
+ISIC Tempo - le contrôle de présence via votre carte ISIC
+Automatiser l’appel de vos apprenants (étudiants)
+Faciliter la tâche des enseignants et des services de scolarité
+Responsabiliser vos apprenants
+Contrôler les absences en temps réel
+Lutter contre l’absentéisme
+Fonctionnement général
+
+Chaque apprenant possède une carte ISIC avec une puce RFID. Le numéro de série de la puce (CSN) – encodé ou non – va servir de base à l’identification de chaque apprenant.
+Au sein de chaque salle de cours est disposé un lecteur de présence (ou plusieurs) connecté en Ethernet et dédié à la salle. ISIC Tempo vous permet de suivre la présence des apprenants dans les salles de cours.
+
+ Ce lecteur possède un son « buzzer » et un écran LCD afin de faciliter l’expérience utilisateur.
+Le logiciel est à la fois connecté à l’annuaire LDAP afin de récupérer les informations des apprenants(numéro d’étudiant, nom, …) et au logiciel de planning (par exemple HyperPlanning).
+
+La session de comptage
+La gestion de présence est faite lors d’une « session de comptage ». Celle-ci initiée automatiquement par votre logiciel de planning ou manuellement par le professeur qui peut « démarrer » une session avec sa carte sur le lecteur avant le début du cours.
+
+La session démarrée, les apprenants viennent « badger » à tour de rôle pour certifier leur présence. Cette action responsabilise vos apprenants sur leur présence aux cours.
+Quand les apprenants ont « badgé », les informations recueillies (lecteur, numéro du badge, date et heure) sont enregistrées indépendamment de votre logiciel de planning dans des fichiers CSV configurés à cet effet sur le serveur hébergeant le logiciel.
 
