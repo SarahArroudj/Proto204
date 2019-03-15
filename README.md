@@ -23,3 +23,7 @@ Fonctionnalités:
 - Extraire le numéro d'inscription 
 - Voyant lumineux pour dire que la carte est détectée 
 - Ecrire dans une base de données ( SQL dans le raspberry )
+- Créer un site Web qui affiche:
+    *le nom et prénom des étudiants ainsi que leurs états
+    *la date de l'examen
+    *le pourcentage de présence des étudiants
