@@ -3,8 +3,6 @@ Sujet : Détection de carte étudiant avec Raspberry Pi 0 pour différents usage
 
 " Imaginez que vous aviez passé un examen difficile pendant la matinée, et que vous aviez un test de TOEIC de 14h00 à 17h00 sans avoir le temps d'aller manger, vous vous rendez sur le lieu de l'examen, il pleut des cordes et vous êtes obligés d'attendre une heure sous la pluie afin que le professeur puisse vérifier l'identité de 100 étudiants et de leur affecter leurs places. Dure comme situation n'est ce pas ? Et bien, nous l'avons vécu il y a un mois, et c'était frustrant comme expérience, d'où notre idée de cette solution "EasyStudenScan". "
 
-Problèmes :
-    * 
 
 - "En tant qu'étudiant, j'utilise la solution "EasyStudentScan", elle me permet de faciliter mes accès aux locaux de l'université en toute sécurité, de réduire considérablement les temps de vérification et d'identification lors des examens, de consulter mes notes de n'importe quel endroit  et d'éviter les files d'attentes interminables au restaurant universitaire et donc de gagner du temps, de l'autonomie ainsi que la tranquilité d'esprit."
 
